@@ -51,9 +51,5 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
   This is where we used some Excel functions notably pivot table to perform various analysis used during our work.
 
-  ```SQL
-  SELECT A,B,C
-  WHERE A>15
-
 
 
