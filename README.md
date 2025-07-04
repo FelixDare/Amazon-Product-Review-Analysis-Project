@@ -52,3 +52,4 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   This is where we used some Excel functions notably pivot table to perform various analysis used during our work.
 
 Amazon case study project.xlsx
+[Amazon case study project.xlsx](https://github.com/user-attachments/files/21053353/Amazon.case.study.project.xlsx)
