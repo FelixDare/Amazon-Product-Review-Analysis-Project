@@ -46,14 +46,14 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - Which categories have products with the highest discunts?
 - Identify the top 5 products in terms of rating and number of reviews combined?
 
-  ### Data Analysis
+ ### Data Analysis
 
-  This is where we used some Excel functions notably pivot table to perform various analysis used during our work.
+This is where we used some Excel functions notably pivot table to perform various analysis used during our work.
 
 Amazon case study project.xlsx
 [Amazon case study project.xlsx](https://github.com/user-attachments/files/21053353/Amazon.case.study.project.xlsx)
 
-  ### Results
+### Results
   
   - Electromics as a product category has highest number of customer engagement while Toys & Games has the least
   - Belkin Apple as product has highest Average Rating
@@ -67,5 +67,5 @@ Amazon case study project.xlsx
 - Since the result reveal that Electronics category of products is the major stength of Amazon Company, as shown in the result in terms of customer engagement and highest potential revenue, more fund allocation should be given to the category.
 - The company should also consider scrapping or discountinuing the Toys & Games line of business and use the facilities for more yielding business line such as Electronics and Computer accessory categories.
 
-  ### Conclusion
-  The Exploratory data analysis conducted for the Amazon Company has given insight to the level of customer engagement, market strategy and revenue generation potential. The management of Amazon are advised to use the insights from this analysis as a guidiance for the strategic decision making.  
+### Conclusion
+The Exploratory data analysis conducted for the Amazon Company has given insight to the level of customer engagement, market strategy and revenue generation potential. The management of Amazon are advised to use the insights from this analysis as a guidiance for the strategic decision making.  
